@@ -27,7 +27,7 @@ export class BasicInformationServer extends Base {
       homeAssistantInfo.basicInformation.softwareVersion;
     this.state.nodeLabel = maxLengthOrHash(
       homeAssistantInfo.entity.attributes.friendly_name ?? "Unknown Entity",
-      32,
+      64,
     );
     this.state.reachable = true;
   }
