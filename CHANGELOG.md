@@ -1,3 +1,13 @@
+## 3.0.0-alpha.27 (2024-11-10)
+
+### 🩹 Fixes
+
+- Increase nodelabel length ([1504c78](https://github.com/sachin71p/home-assistant-matter-hub/commit/1504c78))
+
+### ❤️  Thank You
+
+- Sachin Patel
+
 ## 3.0.0-alpha.26 (2024-11-10)
 
 ### 🩹 Fixes
